@@ -1,8 +1,8 @@
 {
   "name": "Hangman Cli",
   "version": "1.0.0",
-  "description": "",
-  "main": "hangman.js",
+  "description": "Hangman command-line game using constructor functions",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,6 @@
   "author": "Sharareh Shafieikermani",
   "license": "ISC",
   "dependencies": {
-    "prompt": "^1.0.0",
+    "prompt": "^1.0.0"
   }
 }
